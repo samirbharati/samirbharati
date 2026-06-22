@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29210471/README.md)
+
 <!-- HEADER BANNER - Animated typing SVG -->
 <div align="center">
 
