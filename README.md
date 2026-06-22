@@ -1,101 +1,144 @@
+[README.md](https://github.com/user-attachments/files/29210471/README.md)
+<!-- HEADER BANNER - Animated typing SVG -->
+<div align="center">
 
-[samirbharati_github_profile_preview.html](https://github.com/user-attachments/files/29210413/samirbharati_github_profile_preview.html)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Samir+Bharati;Backend+%26+Systems+Engineer;Building+Scalable+Infra+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
-  .gh-profile { background: #0d1117; color: #e6edf3; font-family: 'JetBrains Mono', monospace; border-radius: 12px; padding: 28px 24px; width: 100%; box-sizing: border-box; }
-  .typing-line { color: #00d9ff; font-size: 20px; font-weight: 700; text-align: center; margin-bottom: 4px; }
-  .typing-sub { color: #8b5cf6; font-size: 13px; text-align: center; margin-bottom: 20px; }
-  .section-title { color: #00d9ff; font-size: 13px; font-weight: 700; margin: 20px 0 8px; border-bottom: 1px solid #21262d; padding-bottom: 6px; }
-  .code-block { background: #161b22; border-radius: 8px; padding: 12px 14px; font-size: 11px; color: #8b949e; border: 1px solid #21262d; }
-  .code-block .key { color: #79c0ff; }
-  .code-block .val { color: #a5d6ff; }
-  .code-block .str { color: #a8ff78; }
-  .badge-row { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0; }
-  .badge { background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 4px 10px; font-size: 11px; display: flex; align-items: center; gap: 5px; }
-  .badge-dot { width: 8px; height: 8px; border-radius: 50%; }
-  .stats-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 10px 0; }
-  .stat-card { background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px; text-align: center; }
-  .stat-num { font-size: 22px; font-weight: 700; color: #00d9ff; }
-  .stat-label { font-size: 10px; color: #8b949e; margin-top: 2px; }
-  .explorer-box { background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 12px 14px; font-size: 11px; color: #8b949e; }
-  .explorer-row { display: flex; align-items: center; gap: 8px; margin: 5px 0; }
-  .explorer-row span.arrow { color: #8b5cf6; }
-  .explorer-row span.topic { color: #00d9ff; min-width: 130px; }
-  .cursor { display: inline-block; width: 2px; height: 1em; background: #00d9ff; animation: blink 1s step-end infinite; vertical-align: text-bottom; margin-left: 2px; }
-  @keyframes blink { 50% { opacity: 0; } }
-  .streak-bar-wrap { background: #161b22; border-radius: 8px; padding: 12px 14px; border: 1px solid #21262d; margin: 8px 0; }
-  .streak-label { font-size: 10px; color: #8b949e; margin-bottom: 6px; }
-  .streak-bar-bg { background: #21262d; border-radius: 4px; height: 8px; }
-  .streak-bar-fill { height: 8px; border-radius: 4px; background: linear-gradient(90deg, #00d9ff, #8b5cf6); }
-  .connect-row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
-  .connect-badge { background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 5px 12px; font-size: 11px; color: #8b949e; }
-  .views-pill { background: #161b22; border: 1px solid #00d9ff44; border-radius: 999px; padding: 4px 14px; font-size: 11px; color: #00d9ff; display: inline-block; margin-top: 8px; }
-  .wave-top { height: 28px; background: linear-gradient(180deg, #8b5cf622, transparent); border-radius: 10px 10px 0 0; margin: -28px -24px 0; }
-  .wave-bot { height: 28px; background: linear-gradient(0deg, #00d9ff11, transparent); border-radius: 0 0 12px 12px; margin: 20px -24px -28px; }
-  .quote { text-align: center; font-size: 11px; color: #8b949e; font-style: italic; margin-top: 14px; }
-</style>
+</div>
 
-<div class="gh-profile">
-  <div class="wave-top"></div>
+<!-- ANIMATED BANNER IMAGE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=&animation=fadeIn" width="100%"/>
+</div>
 
-  <div class="typing-line">Hey 👋 I'm Samir Bharati<span class="cursor"></span></div>
-  <div class="typing-sub">Backend &amp; Systems Engineer · Mumbai, India 🇮🇳</div>
+---
 
-  <div class="section-title">⚙️ whoami</div>
-  <div class="code-block">
-    <div><span class="key">role</span>       : <span class="str">Backend &amp; Systems Engineer</span></div>
-    <div><span class="key">focus</span>      : <span class="val">Distributed Systems · APIs · Cloud</span></div>
-    <div><span class="key">learning</span>   : <span class="val">gRPC · Microservices · System Design</span></div>
-    <div><span class="key">mindset</span>    : <span class="str">"Build things that scale, then scale them more"</span></div>
-  </div>
+<!-- WHO AM I -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
-  <div class="section-title">🛠️ Tech Stack</div>
-  <div class="badge-row">
-    <div class="badge"><div class="badge-dot" style="background:#00ADD8"></div>Go</div>
-    <div class="badge"><div class="badge-dot" style="background:#3776AB"></div>Python</div>
-    <div class="badge"><div class="badge-dot" style="background:#339933"></div>Node.js</div>
-    <div class="badge"><div class="badge-dot" style="background:#2496ED"></div>Docker</div>
-    <div class="badge"><div class="badge-dot" style="background:#326CE5"></div>K8s</div>
-    <div class="badge"><div class="badge-dot" style="background:#FF9900"></div>AWS</div>
-    <div class="badge"><div class="badge-dot" style="background:#4169E1"></div>PostgreSQL</div>
-    <div class="badge"><div class="badge-dot" style="background:#DC382D"></div>Redis</div>
-    <div class="badge"><div class="badge-dot" style="background:#231F20"></div>Kafka</div>
-    <div class="badge"><div class="badge-dot" style="background:#00d9ff"></div>gRPC</div>
-  </div>
+### 🧠 `whoami`
 
-  <div class="section-title">📊 GitHub Stats</div>
-  <div class="stats-grid">
-    <div class="stat-card">
-      <div class="stat-num">⭐ Stars</div>
-      <div class="stat-label">Total stars earned</div>
-    </div>
-    <div class="stat-card">
-      <div class="stat-num">🔥 Streak</div>
-      <div class="stat-label">Contribution streak</div>
-    </div>
-  </div>
-  <div class="streak-bar-wrap">
-    <div class="streak-label">Contributions this year</div>
-    <div class="streak-bar-bg"><div class="streak-bar-fill" style="width:68%"></div></div>
-  </div>
+```bash
+$ cat about.txt
+```
 
-  <div class="section-title">🔭 Currently Exploring</div>
-  <div class="explorer-box">
-    <div class="explorer-row"><span class="arrow">→</span><span class="topic">Distributed Systems</span><span>SAGA pattern, 2PC, Raft consensus</span></div>
-    <div class="explorer-row"><span class="arrow">→</span><span class="topic">gRPC &amp; Protobuf</span><span>Streaming, bidirectional calls</span></div>
-    <div class="explorer-row"><span class="arrow">→</span><span class="topic">Kubernetes</span><span>Service mesh, operators</span></div>
-    <div class="explorer-row"><span class="arrow">→</span><span class="topic">System Design</span><span>CDN, load balancing, caching</span></div>
-  </div>
+```yaml
+name       : Samir Bharati
+role       : Backend & Systems Engineer
+location   : Mumbai, India 🇮🇳
+focus      : Distributed Systems | APIs | Cloud Infra
+learning   : gRPC · Microservices · System Design
+mindset    : "Build things that scale, then scale them more"
+```
 
-  <div class="section-title">🤝 Connect</div>
-  <div class="connect-row">
-    <div class="connect-badge">🔗 LinkedIn</div>
-    <div class="connect-badge">🐦 Twitter</div>
-    <div class="connect-badge">📧 Gmail</div>
-  </div>
-  <div class="views-pill">👁️ Profile Views: live on your page</div>
+<br clear="right"/>
 
-  <div class="quote">"First make it work, then make it scale."</div>
-  <div class="wave-bot"></div>
+---
+
+<!-- TECH STACK -->
+### ⚙️ Tech Stack
+
+**Backend & Systems**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Infrastructure & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Databases & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**APIs & Protocols**
+
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
+<!-- GITHUB STATS -->
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirbharati&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=8b5cf6&text_color=e6edf3&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirbharati&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=e6edf3"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samirbharati&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<!-- CONTRIBUTION SNAKE -->
+### 🐍 Contribution Snake
+
+<div align="center">
+
+![snake animation](https://github.com/samirbharati/samirbharati/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> ⚠️ **Setup required:** The snake animation needs a GitHub Actions workflow. See setup instructions below.
+
+---
+
+<!-- ACTIVITY GRAPH -->
+### 📈 Contribution Activity
+
+[![Samir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samirbharati&bg_color=0d1117&color=00d9ff&line=8b5cf6&point=00d9ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<!-- CURRENTLY LEARNING -->
+### 🔭 Currently Exploring
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  📡  Distributed Systems  →  SAGA pattern, 2PC, Raft    │
+│  🔌  gRPC & Protobuf      →  Streaming, bi-directional  │
+│  ☸️   Kubernetes          →  Service mesh, operators    │
+│  📐  System Design        →  CDN, load balancing, cache │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+<!-- VISITOR COUNTER + CONNECT -->
+### 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samirbharati)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samirbharati)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirbharati@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=samirbharati&color=00d9ff&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+---
+
+<!-- FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <i>"First make it work, then make it scale."</i>
 </div>
