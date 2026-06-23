@@ -1,14 +1,11 @@
+<!-- WAVE BANNER (top decoration - sits above everything) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<!-- HEADER BANNER - Animated typing SVG -->
+<!-- ANIMATED TYPING SVG - below the wave, fully visible -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Samir+Bharati;Backend+%26+Systems+Engineer;Building+Scalable+Infra+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=Hey+%F0%9F%91%8B+I'm+Samir+Bharati;Backend+%26+Systems+Engineer;Building+Scalable+Infra+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-</div>
-
-<!-- ANIMATED BANNER IMAGE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=&animation=fadeIn" width="100%"/>
 </div>
 
 ---
